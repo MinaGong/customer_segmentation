@@ -55,12 +55,17 @@ Derived actionable business insights from the characteristics of each identified
 * **K-Means Cluster Profiles** : Understanding Your Customers
 The K-Means algorithm successfully identified three distinct customer segments, which are clearly separated when visualized with PCA. 
 
-    * **Cluster 0** \
-        Seasonal Weekend Buyers (15%): Moderate spenders, weekend + holiday-driven.
-    * **Cluster 1** Niche Frequent Weekday Buyers (6%): Small group, very frequent on weekdays.
-    * **Cluster 2** 
-        Christmas-Driven Weekday Buyers (37%): Largest cluster, moderate spenders, strong holiday focus.
-    * **Cluster 3** 
-        VIP Loyalists (27%): High-frequency, high-spending, weekday daytime customers, consistent year-round.
-    * **Cluster 4** 
-        Night-Active Steady Buyers (15%): Balanced spenders with unusual night-time activity.
+    * **Cluster 0** Seasonal Weekend Buyers (15%): \
+        Moderate spenders, weekend + holiday-driven.
+
+    * **Cluster 1** Niche Frequent Weekday Buyers (6%): \
+        Small group, very frequent on weekdays.
+
+    * **Cluster 2** Christmas-Driven Weekday Buyers (37%): \
+        Largest cluster, moderate spenders, strong holiday focus.
+
+    * **Cluster 3** VIP Loyalists (27%): \
+        High-frequency, high-spending, weekday daytime customers, consistent year-round.
+
+    * **Cluster 4** Night-Active Steady Buyers (15%): \
+        Balanced spenders with unusual night-time activity.

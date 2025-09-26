@@ -55,7 +55,7 @@ Derived actionable business insights from the characteristics of each identified
 * **K-Means Cluster Profiles** : Understanding Your Customers
 The K-Means algorithm successfully identified three distinct customer segments, which are clearly separated when visualized with PCA. 
 
-    1. Cluster 0
+    * **Cluster 0**
         Seasonal Weekend Buyers (15%): Moderate spenders, weekend + holiday-driven.
     2. **Cluster 1**  
         Niche Frequent Weekday Buyers (6%): Small group, very frequent on weekdays.

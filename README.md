@@ -8,7 +8,7 @@ This repository is organized into two main projects, each contained within its o
 
 ### 1. EDA and Feature Engineering for Customer Segmentation
 
-[View EDA & Feature Engineering Notebook]("https://github.com/MinaGong/customer_segmentation/blob/main/customer_segmentation_feature_engineering.ipynb")
+[View EDA & Feature Engineering Notebook](https://github.com/MinaGong/customer_segmentation/blob/main/customer_segmentation_feature_engineering.ipynb)
 
 This project focuses on the foundational data preparation required for effective clustering. The goal is to deeply understand the raw transaction data and engineer a rich set of features that capture customer purchasing habits, preferences, and engagement levels.
 
@@ -26,7 +26,7 @@ This project focuses on the foundational data preparation required for effective
 
 ### 2. Customer Segmentation with Clustering Algorithms
 
-[View Clustering Notebook]("https://github.com/MinaGong/customer_segmentation/blob/main/customer_segmentation_clustering.html")
+[View Clustering Notebook](https://github.com/MinaGong/customer_segmentation/blob/main/customer_segmentation_clustering.ipynb)
 
 This project takes the engineered features and applies unsupervised learning to group customers into meaningful segments. The goal is to build, evaluate, and interpret clusters that represent different types of customer behavior, such as high-value loyalists, occasional shoppers, and lapsed customers.
 

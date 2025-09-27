@@ -26,7 +26,7 @@ This project focuses on the foundational data preparation required for effective
 
 ### 2. Customer Segmentation with Clustering Algorithms
 
-[View Clustering Notebook]("https://github.com/MinaGong/customer_segmentation/blob/main/customer_segmentation_clustering.ipynb")
+[View Clustering Notebook]("https://github.com/MinaGong/customer_segmentation/blob/main/customer_segmentation_clustering.html")
 
 This project takes the engineered features and applies unsupervised learning to group customers into meaningful segments. The goal is to build, evaluate, and interpret clusters that represent different types of customer behavior, such as high-value loyalists, occasional shoppers, and lapsed customers.
 
